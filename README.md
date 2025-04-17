@@ -44,6 +44,15 @@ Inside the script, configure the following:
    $criticalThresholdGB = 10                # Critical threshold (only one value allowed)
    ```
 ---
+## 🌐 Available Languages
+
+- 🇬🇧 [English](DiskMonitor_english.ps1)
+- 🇪🇸 [Español](DiskMonitor_espanol.ps1)
+- 🇩🇪 [Deutsch](DiskMonitor_german.ps1)
+- 🇵🇱 [Polski](DiskMonitor_polish.ps1)
+- 🇺🇦 [Українська](DiskMonitor_ukrainian.ps1)
+
+---
 # 📧 Email Example
 - Styled HTML message
 - Timestamp
