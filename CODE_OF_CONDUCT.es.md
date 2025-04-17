@@ -1,8 +1,3 @@
-+++
-version = "2.0"
-aliases = ["/version/2/0/es"]
-+++
-
 # Código de Conducta convenido para Contribuyentes
 
 ## Nuestro compromiso
