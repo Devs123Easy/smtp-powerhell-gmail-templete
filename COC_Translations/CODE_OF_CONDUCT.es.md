@@ -87,7 +87,7 @@ https://www.contributor-covenant.org/faq. Hay traducciones disponibles en https:
 
 ## 🌍 Traducciones disponibles
 
-- 🇬🇧 [English](CODE_OF_CONDUCT.md)
-- 🇵🇱 [Polski](COC_Translations/CODE_OF_CONDUCT.pl.md)
-- 🇪🇸 [Español](COC_Translations/CODE_OF_CONDUCT.es.md)
-- 🇺🇦 [Українська](COC_Translations/CODE_OF_CONDUCT.uk.md)
+- 🇬🇧 [English](../CODE_OF_CONDUCT.md)
+- 🇵🇱 [Polski](CODE_OF_CONDUCT.pl.md)
+- 🇪🇸 [Español](CODE_OF_CONDUCT.es.md)
+- 🇺🇦 [Українська](CODE_OF_CONDUCT.uk.md)
