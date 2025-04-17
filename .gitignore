@@ -1,0 +1,33 @@
+# ===============================
+# 📁 PowerShell Project .gitignore
+# ===============================
+
+# Logs & outputs
+*.log
+output/
+results/
+*.out
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PowerShell temp/edit files
+*.ps1~
+*.ps1.save
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Git metadata (just in case)
+.git/
+
+# Windows folder trash
+$RECYCLE.BIN/
+ehthumbs.db
