@@ -43,3 +43,10 @@ Chcesz coś poprawić lub dodać?
 
 Śmiało otwórz nowe zgłoszenie (issue) lub napisz do mnie na discordzie: janek_49625.  
 Dzięki za Twój wkład! 💪
+
+---
+
+## 🌍 Available Translations
+
+- 🇬🇧 [English](../CONTRIBUTING.md)
+- 🇵🇱 [Polski](CONTRIBUTING_PLmd)
