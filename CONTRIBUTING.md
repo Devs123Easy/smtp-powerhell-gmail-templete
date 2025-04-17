@@ -42,3 +42,10 @@ Want to improve or fix something?
 
 Feel free to open an issue or ping me on discord: janek_49625!  
 Thanks for making this project better. 🙌
+
+---
+
+## 🌍 Available Translations
+
+- 🇬🇧 [English](CONTRIBUTING.md)
+- 🇵🇱 [Polski](COC_Translations/CONTRIBUTING_PLmd)
