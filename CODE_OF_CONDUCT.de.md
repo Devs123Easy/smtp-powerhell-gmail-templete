@@ -1,8 +1,3 @@
-+++
-version = "2.0"
-aliases = ["/version/2/0/de"]
-+++
-
 # Vereinbarung über Verhaltenskodex für Mitwirkende
 
 ## Unsere Verpflichtung
