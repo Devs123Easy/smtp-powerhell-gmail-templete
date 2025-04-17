@@ -48,4 +48,4 @@ Thanks for making this project better. 🙌
 ## 🌍 Available Translations
 
 - 🇬🇧 [English](CONTRIBUTING.md)
-- 🇵🇱 [Polski](COC_Translations/CONTRIBUTING_PLmd)
+- 🇵🇱 [Polski](COC_Translations/CONTRIBUTING_PL.md)
