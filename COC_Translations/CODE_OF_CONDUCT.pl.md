@@ -62,7 +62,7 @@ Ten Kodeks Postępowania oparty jest na Contributor Covenant, wersja 2.0, dostę
 
 ## 🌍 Dostępne tłumaczenia
 
-- 🇬🇧 [English](CODE_OF_CONDUCT.md)
-- 🇵🇱 [Polski](COC_Translations/CODE_OF_CONDUCT.pl.md)
-- 🇪🇸 [Español](COC_Translations/CODE_OF_CONDUCT.es.md)
-- 🇺🇦 [Українська](COC_Translations/CODE_OF_CONDUCT.uk.md)
+- 🇬🇧 [English](../CODE_OF_CONDUCT.md)
+- 🇵🇱 [Polski](CODE_OF_CONDUCT.pl.md)
+- 🇪🇸 [Español](CODE_OF_CONDUCT.es.md)
+- 🇺🇦 [Українська](CODE_OF_CONDUCT.uk.md)
