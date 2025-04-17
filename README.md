@@ -37,7 +37,7 @@ Customizable thresholds, styled HTML emails and logging to file – all in one s
 Inside the script, configure the following:
 
    ```powershell
-   $logPath = "C:\users\example\desktop"    # "none" to disable logging or $startPath if the file log.txt is in the same path as this script
+   $logPath = "C:\users\example\log.txt"    # "none" to disable logging or $startPath if the file log.txt is in the same path as this script
    $gmailUser = "yourgmail@gmail.com"       # Your Gmail address
    $gmailAppPassword = "your-app-password"  # Your Gmail App Password
    $thresholdGB = @(50, 40, 30, 20)         # Warning thresholds in descending order
