@@ -57,3 +57,12 @@ Stały zakaz uczestnictwa po powtarzających się lub ciężkich naruszeniach.
 ## Atrybucja
 
 Ten Kodeks Postępowania oparty jest na Contributor Covenant, wersja 2.0, dostępnej na [contributor-covenant.org](https://www.contributor-covenant.org)
+
+---
+
+## 🌍 Dostępne tłumaczenia
+
+- 🇬🇧 [English](CODE_OF_CONDUCT.md)
+- 🇵🇱 [Polski](COC_Translations/CODE_OF_CONDUCT.pl.md)
+- 🇪🇸 [Español](COC_Translations/CODE_OF_CONDUCT.es.md)
+- 🇺🇦 [Українська](COC_Translations/CODE_OF_CONDUCT.uk.md)
