@@ -140,3 +140,9 @@ den häufig gestellten Fragen unter <https://www.contributor-covenant.org/faq>
 [homepage]: https://www.contributor-covenant.org
 [mozilla]: https://github.com/mozilla/inclusion
 
+## 🌍 Verfügbare Übersetzungen
+
+- 🇬🇧 [English](CODE_OF_CONDUCT.md)
+- 🇵🇱 [Polski](COC_Translations/CODE_OF_CONDUCT.pl.md)
+- 🇪🇸 [Español](COC_Translations/CODE_OF_CONDUCT.es.md)
+- 🇺🇦 [Українська](COC_Translations/CODE_OF_CONDUCT.uk.md)
