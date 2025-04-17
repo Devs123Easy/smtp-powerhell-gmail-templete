@@ -49,4 +49,4 @@ Dzięki za Twój wkład! 💪
 ## 🌍 Available Translations
 
 - 🇬🇧 [English](../CONTRIBUTING.md)
-- 🇵🇱 [Polski](CONTRIBUTING_PLmd)
+- 🇵🇱 [Polski](CONTRIBUTING_PL.md)
